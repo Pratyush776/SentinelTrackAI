@@ -1,6 +1,6 @@
 # SentinelTrapAI: Autonomous AI Honeypot & Threat Logging System Backend
 
-VITGUARD is an asynchronous, headless network decoy infrastructure engineered to monitor, capture, and log unauthorized connection anomalies and malicious payloads. By simulating open vulnerable systems (Honeypots), the application misdirects threat vectors inside institutional networks while actively gathering forensic telemetry data.
+SentinelTrapAI is an asynchronous, headless network decoy infrastructure engineered to monitor, capture, and log unauthorized connection anomalies and malicious payloads. By simulating open vulnerable systems (Honeypots), the application misdirects threat vectors inside institutional networks while actively gathering forensic telemetry data.
 
 Constructed entirely as a headless engine, developer validation and operational analytics run natively through automated backend documentation specifications, bypassing unnecessary frontend UI overhead.
 
