@@ -1,0 +1,16 @@
+# Ignore the Python virtual environment folders
+honeypot_system/venv/
+venv/
+.venv/
+env/
+ENV/
+
+# Ignore Python runtime cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local IDE settings
+.vscode/
+.DS_Store
